@@ -30,8 +30,14 @@ jobs:
 
       - run: npm ci
 
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+
       - name: Install Quartz plugins
-        run: npm run install-plugins
+        run: npx quartz plugin install
 
       - name: Build Quartz
         run: npx quartz build
