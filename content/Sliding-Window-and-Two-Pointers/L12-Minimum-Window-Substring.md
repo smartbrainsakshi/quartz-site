@@ -77,4 +77,4 @@ The recurring threads across the whole series: the `while → if` "stall" optimi
 
 ## 🔗 Related
 - **Previous:** [L11 — Subarray with K Different Integers](L11-Subarray-with-K-Different-Integers.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

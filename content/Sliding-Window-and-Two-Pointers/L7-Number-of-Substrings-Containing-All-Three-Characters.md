@@ -70,4 +70,4 @@ return count
 
 ## 🔗 Related
 - **Previous:** [L6 — Longest Substring With At Most K Distinct Characters](L6-Longest-Substring-With-At-Most-K-Distinct-Characters.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

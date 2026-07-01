@@ -12,7 +12,7 @@ Welcome to my personal knowledge base for **Data Structures & Algorithms**. Each
 ### [Graph](Graph/00-Graph-Index.md)
 Striver's Graph Series — traversals, connected components, BFS/DFS problems, topological sort, shortest path algorithms, MST/Disjoint Set, and more. *12/52 lectures noted, in progress.*
 
-### [Sliding Window & Two Pointers](Sliding-Window-and-Two-Pointers/00-Sliding-Window-Index.md)
+### [Sliding Window & Two Pointers](Sliding-Window-and-Two-Pointers/index.md)
 Strivers A2Z DSA Course, Step 10 — all 4 core patterns: constant window, longest window, count windows, shortest window. *12/12 lectures noted — complete.*
 
 > [!tip]

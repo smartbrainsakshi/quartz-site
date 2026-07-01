@@ -72,4 +72,4 @@ Compared to the general hashmap solution (O(N) time, O(N) space), this trades a 
 ## 🔗 Related
 - **Previous:** [L8 — Longest Repeating Character Replacement](L8-Longest-Repeating-Character-Replacement.md)
 - **Next:** [L10 — Count Number of Nice Subarrays](L10-Count-Number-of-Nice-Subarrays.md) — this exact problem in disguise
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

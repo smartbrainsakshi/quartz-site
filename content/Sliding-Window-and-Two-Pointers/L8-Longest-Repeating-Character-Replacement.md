@@ -121,4 +121,4 @@ while R < n:
 
 ## 🔗 Related
 - **Previous:** [L7 — Number of Substrings Containing All Three Characters](L7-Number-of-Substrings-Containing-All-Three-Characters.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

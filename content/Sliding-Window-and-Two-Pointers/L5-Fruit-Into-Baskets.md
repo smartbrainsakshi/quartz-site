@@ -95,4 +95,4 @@ while R < n:
 ## 🔗 Related
 - **Previous:** [L4 — Max Consecutive Ones III](L4-Max-Consecutive-Ones-III.md)
 - **Next:** [L6 — Longest Substring With At Most K Distinct Characters](L6-Longest-Substring-With-At-Most-K-Distinct-Characters.md) — generalizes this exact pattern
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

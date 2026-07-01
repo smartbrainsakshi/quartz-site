@@ -56,4 +56,4 @@ Window size stays fixed at exactly `K` throughout — only the *split point* bet
 
 ## 🔗 Related
 - **Previous:** [L1 — Introduction](L1-Introduction-to-Sliding-Window-and-2-Pointers.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

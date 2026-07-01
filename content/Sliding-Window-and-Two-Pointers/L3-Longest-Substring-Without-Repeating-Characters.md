@@ -64,4 +64,4 @@ while R < n:
 
 ## 🔗 Related
 - **Previous:** [L2 — Maximum Points You Can Obtain from Cards](L2-Maximum-Points-You-Can-Obtain-from-Cards.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

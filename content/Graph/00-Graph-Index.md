@@ -31,7 +31,7 @@ Prim's, Kruskal's, Disjoint Set Union (Union by Rank/Size + Path Compression), a
 ### [06 · Other Algorithms](06-Other-Algorithms/00-Other-Algorithms-Index.md)
 Bridges, articulation points, Kosaraju's & Tarjan's SCC algorithms.
 
-### [07 · Sliding Window & Two Pointers](07-Sliding-Window-and-Two-Pointers/00-Sliding-Window-Index.md)
+### [07 · Sliding Window & Two Pointers](../Sliding-Window-and-Two-Pointers/index.md)
 A separate DSA topic (not part of the Graph Series) — all 4 core patterns: constant window, longest window, count windows, shortest window.
 
 ---

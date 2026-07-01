@@ -88,4 +88,4 @@ while R < n:
 
 ## 🔗 Related
 - **Previous:** [L3 — Longest Substring Without Repeating Characters](L3-Longest-Substring-Without-Repeating-Characters.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

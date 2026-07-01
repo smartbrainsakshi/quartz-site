@@ -118,4 +118,4 @@ Rare pattern; opposite goal to Pattern 2.
 - Pattern 3's `atMost(K) − atMost(K−1)` trick is reused often — memorize it.
 
 ## 🔗 Related
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

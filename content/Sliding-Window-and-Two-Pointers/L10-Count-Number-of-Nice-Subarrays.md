@@ -48,4 +48,4 @@ answer = atMost(nums, K) - atMost(nums, K - 1)
 
 ## 🔗 Related
 - **Previous:** [L9 — Binary Subarrays With Sum](L9-Binary-Subarrays-With-Sum.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)

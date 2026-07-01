@@ -25,7 +25,7 @@ graph-notes/
 │   └── assets/                            ← images/diagrams for Graph notes
 │
 ├── Sliding-Window-and-Two-Pointers/        ← topic: Sliding Window & Two Pointers
-│   ├── 00-Sliding-Window-Index.md         ← topic home page
+│   ├── index.md         ← topic home page
 │   └── L1-...md ... L12-...md             ← individual lecture notes
 │
 └── Tree/, Dynamic-Programming/, etc.       ← future topics slot in the same way

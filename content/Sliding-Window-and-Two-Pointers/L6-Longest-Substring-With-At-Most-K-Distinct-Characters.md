@@ -90,4 +90,4 @@ while R < n:
 
 ## 🔗 Related
 - **Previous:** [L5 — Fruit Into Baskets](L5-Fruit-Into-Baskets.md)
-- [↑ Back to Sliding Window Index](00-Sliding-Window-Index.md)
+- [↑ Back to Sliding Window Index](index.md)
