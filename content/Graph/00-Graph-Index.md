@@ -38,7 +38,7 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 
 ## Progress Tracker
 
-**Graph Series: 17 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
+**Graph Series: 23 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
 
 ### ✅ 01 · Foundations — 5/5
 - [x] [G1. Introduction to Graphs](01-Foundations/G1-Introduction-to-Graphs.md)
@@ -62,8 +62,14 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 - [x] [Find Eventual Safe States (DFS)](02-BFS-DFS-Problems/Eventual-Safe-States-DFS.md)
 - [ ] 2 more — added as transcripts come in
 
-### ⏳ 03 · Topological Sort — 0/7
-- [ ] 7 problems — added as transcripts come in
+### 🟡 03 · Topological Sort — 6/7
+- [x] [Topological Sort (DFS)](03-Topological-Sort/Topological-Sort-DFS.md)
+- [x] [Topological Sort (BFS / Kahn's Algorithm)](03-Topological-Sort/Topological-Sort-BFS-Kahns-Algorithm.md)
+- [x] [Detect Cycle in a Directed Graph (BFS / Kahn's Algorithm)](03-Topological-Sort/Detect-Cycle-Directed-BFS.md)
+- [x] [Course Schedule I](03-Topological-Sort/Course-Schedule-I.md)
+- [x] [Course Schedule II](03-Topological-Sort/Course-Schedule-II.md)
+- [x] [Find Eventual Safe States (BFS / Topological Sort)](03-Topological-Sort/Eventual-Safe-States-BFS.md)
+- [ ] 1 more — added as transcripts come in
 
 ### ⏳ 04 · Shortest Path Algorithms — 0/13
 - [ ] 13 problems — added as transcripts come in
