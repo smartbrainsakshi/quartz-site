@@ -7,7 +7,7 @@ description: Problems built directly on top of BFS and DFS traversal.
 
 14 problems that train you to recognize when a problem is "secretly" a BFS/DFS traversal — flood fill, cycle detection in undirected graphs, bipartite checks, rotting oranges, and similar grid/graph problems.
 
-## Notes in this section — 8/14
+## Notes in this section — 12/14
 
 - [x] [Number of Provinces](Number-of-Provinces.md)
 - [x] [Number of Islands (Grid Connected Components)](Number-of-Islands.md)
@@ -17,6 +17,10 @@ description: Problems built directly on top of BFS and DFS traversal.
 - [x] [Detect Cycle in an Undirected Graph (DFS)](Detect-Cycle-Undirected-DFS.md)
 - [x] [Distance of Nearest Cell Having 1 (01 Matrix)](Distance-of-Nearest-Cell-Having-1.md)
 - [x] [Surrounded Regions](Surrounded-Regions.md)
-- [ ] 6 more — added as transcripts come in
+- [x] [Bipartite Graph (DFS)](Bipartite-Graph-DFS.md)
+- [x] [Bipartite Graph (BFS)](Bipartite-Graph-BFS.md)
+- [x] [Detect Cycle in a Directed Graph (DFS)](Detect-Cycle-Directed-DFS.md)
+- [x] [Find Eventual Safe States (DFS)](Eventual-Safe-States-DFS.md)
+- [ ] 2 more — added as transcripts come in
 
 [← Back to Graph Home](../00-Graph-Index.md)
