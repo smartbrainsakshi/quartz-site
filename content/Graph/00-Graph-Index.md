@@ -38,7 +38,7 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 
 ## Progress Tracker
 
-**Graph Series: 12 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
+**Graph Series: 13 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
 
 ### ✅ 01 · Foundations — 5/5
 - [x] [G1. Introduction to Graphs](01-Foundations/G1-Introduction-to-Graphs.md)
@@ -47,7 +47,7 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 - [x] [G4. BFS Traversal](01-Foundations/G4-BFS-Traversal.md)
 - [x] [G5. DFS Traversal](01-Foundations/G5-DFS-Traversal.md)
 
-### 🟡 02 · BFS / DFS Problems — 7/14
+### 🟡 02 · BFS / DFS Problems — 8/14
 - [x] [Number of Provinces](02-BFS-DFS-Problems/Number-of-Provinces.md)
 - [x] [Number of Islands](02-BFS-DFS-Problems/Number-of-Islands.md)
 - [x] [Flood Fill](02-BFS-DFS-Problems/Flood-Fill.md)
@@ -55,7 +55,8 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 - [x] [Detect Cycle in an Undirected Graph (BFS)](02-BFS-DFS-Problems/Detect-Cycle-Undirected-BFS.md)
 - [x] [Detect Cycle in an Undirected Graph (DFS)](02-BFS-DFS-Problems/Detect-Cycle-Undirected-DFS.md)
 - [x] [Distance of Nearest Cell Having 1](02-BFS-DFS-Problems/Distance-of-Nearest-Cell-Having-1.md)
-- [ ] 7 more — added as transcripts come in
+- [x] [Surrounded Regions](02-BFS-DFS-Problems/Surrounded-Regions.md)
+- [ ] 6 more — added as transcripts come in
 
 ### ⏳ 03 · Topological Sort — 0/7
 - [ ] 7 problems — added as transcripts come in
