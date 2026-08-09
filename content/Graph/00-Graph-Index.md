@@ -38,7 +38,7 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 
 ## Progress Tracker
 
-**Graph Series: 28 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
+**Graph Series: 37 / 52** · Sliding Window & Two Pointers: ✅ 12 / 12 complete
 
 ### ✅ 01 · Foundations — 5/5
 - [x] [G1. Introduction to Graphs](01-Foundations/G1-Introduction-to-Graphs.md)
@@ -71,12 +71,20 @@ A separate DSA topic (not part of the Graph Series) — all 4 core patterns: con
 - [x] [Find Eventual Safe States (BFS / Topological Sort)](03-Topological-Sort/Eventual-Safe-States-BFS.md)
 - [x] [Alien Dictionary](03-Topological-Sort/Alien-Dictionary.md)
 
-### 🟡 04 · Shortest Path Algorithms — 4/13
+### ✅ 04 · Shortest Path Algorithms — 13/13
 - [x] [Shortest Path in a Directed Acyclic Graph (DAG)](04-Shortest-Path-Algorithms/Shortest-Path-DAG.md)
 - [x] [Shortest Path in an Undirected Graph with Unit Weights](04-Shortest-Path-Algorithms/Shortest-Path-Undirected-Unit-Weights.md)
 - [x] [Word Ladder I](04-Shortest-Path-Algorithms/Word-Ladder-I.md)
 - [x] [Word Ladder II](04-Shortest-Path-Algorithms/Word-Ladder-II.md)
-- [ ] 9 more — added as transcripts come in
+- [x] [Dijkstra's Algorithm (Using a Priority Queue)](04-Shortest-Path-Algorithms/Dijkstra-Algorithm-Using-Priority-Queue.md)
+- [x] [Dijkstra's Algorithm (Using a Set)](04-Shortest-Path-Algorithms/Dijkstra-Algorithm-Using-Set.md)
+- [x] [Dijkstra — Why Priority Queue & Time Complexity](04-Shortest-Path-Algorithms/Dijkstra-Why-Priority-Queue-and-Time-Complexity.md)
+- [x] [Print the Shortest Path](04-Shortest-Path-Algorithms/Print-Shortest-Path.md)
+- [x] [Shortest Distance in a Binary Maze](04-Shortest-Path-Algorithms/Shortest-Distance-in-a-Binary-Maze.md)
+- [x] [Path With Minimum Effort](04-Shortest-Path-Algorithms/Path-With-Minimum-Effort.md)
+- [x] [Cheapest Flights Within K Stops](04-Shortest-Path-Algorithms/Cheapest-Flights-Within-K-Stops.md)
+- [x] [Minimum Multiplications to Reach End](04-Shortest-Path-Algorithms/Minimum-Multiplications-to-Reach-End.md)
+- [x] [Number of Ways to Arrive at the Destination](04-Shortest-Path-Algorithms/Number-of-Ways-to-Arrive-at-Destination.md)
 
 ### ⏳ 05 · MST & Disjoint Set — 0/10
 - [ ] 10 problems — added as transcripts come in
