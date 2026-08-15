@@ -15,6 +15,9 @@ Striver's Graph Series — traversals, connected components, BFS/DFS problems, t
 ### [Sliding Window & Two Pointers](Sliding-Window-and-Two-Pointers/index.md)
 Strivers A2Z DSA Course, Step 10 — all 4 core patterns: constant window, longest window, count windows, shortest window. *12/12 lectures noted — complete.*
 
+### [Bit Manipulation](Bit-Manipulation/index.md)
+Strivers A2Z DSA Course — binary/decimal conversion, the 5 core bitwise operators, and the classic bit-trick interview problems. *16/16 lectures noted — complete.*
+
 > [!tip]
 > More topics (Tree, Dynamic Programming, etc.) get added here the same way as they're started — just a new top-level folder with its own index page.
 
